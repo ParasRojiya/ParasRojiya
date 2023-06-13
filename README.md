@@ -1,7 +1,7 @@
 # Hello I'm Paras Rojiya
 
 ## 💫 About Me:
-🔭 Hello everyone, I’m Paras Rojiya currently persuing MCA and also learning flutter.<br>
+🔭 Hello everyone, I’m Paras Rojiya currently persuing BCA and also learning flutter.<br>
    You can check my projects from my repositories, outputs are also added in readme.md files<br>
 
 ## 🌐 Socials:
